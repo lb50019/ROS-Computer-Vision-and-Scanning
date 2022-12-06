@@ -1,0 +1,8 @@
+#goal         
+float64 raz
+---
+#result
+float64 kon_raz
+---
+#feedback
+float64 tren_raz
