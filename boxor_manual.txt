@@ -1,0 +1,6 @@
+(after downloading and applying changes with catkin_make)
+roslaunch boxor main.launch
+rosrun boxor find_ball.py
+(optional) rosrun rqt_image_view rqt_image_view
+rosrun python_action opencv_client.py
+rosrun cpp_action server_node
