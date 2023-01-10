@@ -4,3 +4,7 @@ rosrun boxor find_ball.py
 (optional) rosrun rqt_image_view rqt_image_view
 rosrun python_action opencv_client.py
 rosrun cpp_action server_node
+
+---10.1.2023.---
+with the addition of centroid.py, find_ball.py and all other scripts are obsolete.
+If called with rosrun instead of find_ball.py, end result will be the same, albeit with a different approach
